@@ -1,11 +1,11 @@
 {
   "name": "@0b1.org/yaml-reader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ultra Lean yaml reader with no external dependencies",
   "scripts": {
     "test": "node ./tests/start.js"
   },
   "keywords": ["yaml", "parse", "yml"],
-  "author": "david pither",
+  "author": "David Pither",
   "license": "MIT"
 }
