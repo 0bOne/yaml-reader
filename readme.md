@@ -29,7 +29,7 @@ const inputData = fs.readFileSync(inputPath, "utf-8");
 const result = Parser.Parse(inputData);
 
 console.log(result);
-
+```
 
 
 
